@@ -1,0 +1,2 @@
+.env : means hidden files
+my_first_project:main(calling main function)
